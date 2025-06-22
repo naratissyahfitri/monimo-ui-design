@@ -16,3 +16,5 @@ The interface uses a bold and elegant deep navy theme (#04193B) to give a premiu
 - Designed in *Figma* with reusable components
 - Uses *auto layout, *grids*, and *typographic hierarchy*
 - Dark elegance theme: evokes calm, premium, and trust
+
+## [Monimo UI Preview](monimo-preview.png)
